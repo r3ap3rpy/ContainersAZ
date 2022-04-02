@@ -10,3 +10,11 @@ For example **docker pull httpd** which pulls the latest version of the apache p
 
 You can get a detailed information about images with **docker inspect httpd**.
 
+The docker file.
+
+``` bash
+FROM ubuntu
+```
+
+Use the **docker build -t myubuntu .**, **docker images** will show the images.
+

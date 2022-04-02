@@ -15,6 +15,7 @@ Topics:
 * [Docker HUB](/Guides/DockerHUB.md)
 * [Docker Base Images](/Guides/BaseImages.md)
 * [Docker - Running Containers](/Guides/RunningContainers.md)
+* [SSH key auth](/Guides/SSHKey.md)
 * [LXD Install on Ubuntu]
 * [LXC Install on Ubuntu]
 
